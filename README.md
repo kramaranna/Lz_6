@@ -10,6 +10,7 @@
 <img width="685" height="430" alt="Знімок екрана 2025-10-06 о 13 38 44" src="https://github.com/user-attachments/assets/80f2fffe-ed6c-4572-ba7b-ef345fb57b2d" />
 <img width="441" height="332" alt="Знімок екрана 2025-10-06 о 13 38 55" src="https://github.com/user-attachments/assets/2b354714-8fbf-4ecb-af3c-a2eb4ccd726f" />
 - Блок схема ціла
+
 - 
  <img width="581" height="406" alt="Знімок екрана 2025-10-06 о 13 39 14" src="https://github.com/user-attachments/assets/adb1fbb5-4678-4a04-9f3a-b0cd88ec94d4" />
 
